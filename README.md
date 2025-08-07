@@ -114,5 +114,4 @@ You are responsible for any misuse.
 
 Created with by [OpsLinuxSec Team](https://github.com/ryanachmad12)
 
-```
 
