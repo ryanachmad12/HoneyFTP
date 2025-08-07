@@ -1,4 +1,3 @@
-````markdown
 # HoneyFTP   
 *A simple honeypot for FTP brute-force detection.*
 
